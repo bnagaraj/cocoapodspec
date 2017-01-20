@@ -1,0 +1,22 @@
+{
+  "name": "nagulib",
+  "version": "1.0",
+  "summary": "This is the first application for creating pod.",
+  "homepage": "https://github.com/bnagaraj/cocoapodlib",
+  "social_media_url": "https://swift.08dream.com",
+  "platforms": {
+    "osx": "10.7"
+  },
+  "license": {
+    "type": "MIT"
+  },
+  "authors": {
+    "Nagaraj Balan": "nagaraj.balan@impigertech.com"
+  },
+  "source": {
+    "git": "https://github.com/bnagaraj/cocoapodlib.git",
+    "tag": "1.0"
+  },
+  "requires_arc": true,
+  "source_files": "**/*.{h,m}"
+}
